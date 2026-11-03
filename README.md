@@ -6,3 +6,7 @@
 (Screens/commits.png)
 Для фиксирования изменений использовалась команда `git commit -a`
 (Screens/commit result.png)
+Для выгрузки изменений использовалась команда `git push origin master`
+(Screens/push result.png)
+Для отката коммита использовалась команда `git revert f19271f`, где f19271f - хеш откатываемого коммита
+(Screens/revert.png)
