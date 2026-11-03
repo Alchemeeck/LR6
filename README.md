@@ -10,3 +10,5 @@
 (Screens/push result.png)
 Для отката коммита использовалась команда `git revert f19271f`, где f19271f - хеш откатываемого коммита
 (Screens/revert.png)
+Лог команд
+(Screens/log.png)
