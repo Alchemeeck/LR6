@@ -5,10 +5,10 @@
 Для просмотра истории коммитов использовалась команда `git log`  
 ![](Screens/commits.png)  
 Для фиксирования изменений использовалась команда `git commit -a`  
-![](Screens/commit result.png)  
+![](Screens/commit_result.png)  
 Для выгрузки изменений использовалась команда `git push origin master`  
-![](Screens/push result.png)  
+![](Screens/push_result.png)  
 Для отката коммита использовалась команда `git revert f19271f`, где f19271f - хеш откатываемого коммита  
 ![](Screens/revert.png)  
 Лог команд  
-![](Screens/actual log.png)  
+![](Screens/actual_log.png)  
